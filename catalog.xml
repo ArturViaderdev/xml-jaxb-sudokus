@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/alu2017363/Documents/NetBeansProjects/Jaxbsudokuartur/../Sudokuesquema.xsd" uri="xml-resources/jaxb/Sudoku/Sudokuesquema.xsd"/>
+    <system systemId="file:/C:/Users/Alu2017363/Documents/projectesnetbeans/Jaxbsudokuartur/../Sudokuesquema.xsd" uri="xml-resources/jaxb/Sudokus/Sudokuesquema.xsd"/>
+    <system systemId="file:/home/arturv/Documents/projectes%20netbeans/Jaxbsudokuartur/../Usuarioesquema.xsd" uri="xml-resources/jaxb/Usuarios/Usuarioesquema.xsd"/>
+    <system systemId="file:/home/arturv/Documents/projectes%20netbeans/Jaxbsudokuartur/../Historial.xsd" uri="xml-resources/jaxb/Historiales/Historial.xsd"/>
+</catalog>

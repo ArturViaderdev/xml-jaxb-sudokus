@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<historiales>
+    <usuario>
+        <nombre>arturo</nombre>
+        <username>artur</username>
+        <sudoku level="13" description="Hard" time="30">
+            <problem>8...1..7....7..3..3.1..42....9.....36.51.94.82.....5....35..6.4..6..3....9..6...2</problem>
+            <solved>854312976962758341371694285189245763635179428247836519723581694416923857598467132</solved>
+        </sudoku>
+        <sudoku level="4" description="Easy" time="50">
+            <problem>6.5...7.9.1.9.3.2.7..1.6..4..15.89.............74.93..4..6.2..7.5.8.7.9.1.8...2.6</problem>
+            <solved>635284719814973625729156834341568972962731458587429361493612587256847193178395246</solved>
+        </sudoku>
+        <sudoku level="3" description="Easy" time="50">
+            <problem>31.9...5754.8.32....6..4..34.....57.7..4.2..1.83.....66..2..1....96.8.2587...1.34</problem>
+            <solved>318926457547813269926754813461389572795462381283175946654237198139648725872591634</solved>
+        </sudoku>
+        <sudoku level="8" description="Hard" time="56">
+            <problem>4..5...68.3..1....26...3.1.8.2.46...............79.8.1.1.8...45....7..9.72...1..3</problem>
+            <solved>491527368538619274267483519852146937179238456346795821913862745685374192724951683</solved>
+        </sudoku>
+        <sudoku level="6" description="Medium" time="50">
+            <problem>.7.831.5.8.......3..3...4..53.7.6.84....5....19.3.4.62..9...1..4.......6.6.945.2.</problem>
+            <solved>274831659856497213913562478532716984648259731197384562789623145425178396361945827</solved>
+        </sudoku>
+    </usuario>
+    <usuario>
+        <nombre>Pedro</nombre>
+        <username>pedro</username>
+        <sudoku level="10" description="Hard" time="30">
+            <problem>3.....94.8...49.6..7..........4.83...469.251...81.7..........5..9.28...4.85.....2</problem>
+            <solved>362871945851349267974526183219458376746932518538167429623794851197285634485613792</solved>
+        </sudoku>
+    </usuario>
+</historiales>
